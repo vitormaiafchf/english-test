@@ -2,366 +2,265 @@
   {
     "id": 1,
     "level": "A1",
-    "question": "NOTICE IN CLASSROOM:\n'Please leave your sports shoes outside before entering the gym.'\nWhat must students do?",
-    "options": [
-      "Do not wear sports shoes inside the gym.",
-      "Bring extra sports shoes to class.",
-      "Clean your sports shoes inside the gym.",
-      "Leave the gym to buy new sports shoes."
-    ],
-    "answer": "Do not wear sports shoes inside the gym.",
-    "tip": "O aviso indica 'leave outside' (deixar do lado de fora), o que significa não usá-los dentro do ambiente."
+    "passage_title": "My School Day",
+    "passage_text": "My name is Lucas and I am twelve years old. Every morning, I wake up (1) _____ 6:30 AM. I have breakfast with my family, and then my sister and I walk to school because our house is very (2) _____. We usually arrive before the bell rings. Our first lesson is English, and our teacher is very friendly; she always (3) _____ us interesting stories. At midday, we eat lunch in the cafeteria. There (4) _____ many students, but the food is always warm. In the afternoon, I play football with my friends (5) _____ we go home. I really enjoy my routine because every day is full (6) _____ new things.",
+    "gap_number": 1,
+    "question": "Choose the best option for gap (1):",
+    "options": ["at", "in", "on", "to"],
+    "answer": "at",
+    "tip": "Preposição de tempo exato para horas do relógio."
   },
   {
     "id": 2,
     "level": "A1",
-    "question": "TEXT MESSAGE FROM LUCAS:\n'Hi Mom, I am at Leo's house. His father is driving us to soccer practice at 5:00. See you later!'\nLucas is writing to:",
-    "options": [
-      "Ask his mother for a ride.",
-      "Explain where he is and his plans.",
-      "Invite Leo to soccer practice.",
-      "Remind his mother to pick him up."
-    ],
-    "answer": "Explain where he is and his plans.",
-    "tip": "A mensagem informa a localização atual (na casa de Leo) e a programação seguinte (ir ao treino)."
+    "passage_title": "My School Day",
+    "passage_text": "Reference text above.",
+    "gap_number": 2,
+    "question": "Choose the best option for gap (2):",
+    "options": ["near", "next", "close to", "far"],
+    "answer": "near",
+    "tip": "'Near' funciona como adjetivo/advérbio direto sem necessidade de preposição adicional na frase."
   },
   {
     "id": 3,
     "level": "A1",
-    "question": "Sarah usually _____ breakfast with her family before school, but today she woke up late.",
-    "options": ["has", "have", "having", "is have"],
-    "answer": "has",
-    "tip": "Rotinas com sujeito na 3ª pessoa do singular ('Sarah') exigem a forma 'has' no Present Simple."
+    "passage_title": "My School Day",
+    "passage_text": "Reference text above.",
+    "gap_number": 3,
+    "question": "Choose the best option for gap (3):",
+    "options": ["tells", "says", "speaks", "talks"],
+    "answer": "tells",
+    "tip": "O verbo 'tell' rege objeto indireto imediato ('tells us stories')."
   },
   {
     "id": 4,
     "level": "A1",
-    "question": "Excuse me, how much _____ these blue notebooks cost?",
-    "options": ["do", "does", "are", "is"],
-    "answer": "do",
-    "tip": "O sujeito está no plural ('these blue notebooks'), portanto o verbo auxiliar de pergunta é 'do'."
+    "passage_title": "My School Day",
+    "passage_text": "Reference text above.",
+    "gap_number": 4,
+    "question": "Choose the best option for gap (4):",
+    "options": ["are", "is", "have", "be"],
+    "answer": "are",
+    "tip": "'There are' com substantivo plural contável ('many students')."
   },
   {
     "id": 5,
     "level": "A1",
-    "question": "LUNCHROOM SIGN:\n'Take one sandwich and one apple per student. Sandwiches cannot be taken outside.'\nWhat is TRUE according to the sign?",
-    "options": [
-      "You can eat your sandwich outside in the yard.",
-      "You may take two sandwiches if you don't take an apple.",
-      "All sandwiches must be eaten inside the lunchroom.",
-      "Students have to pay for the apples."
-    ],
-    "answer": "All sandwiches must be eaten inside the lunchroom.",
-    "tip": "Se os lanches não podem ser levados para fora ('cannot be taken outside'), devem ser consumidos dentro."
+    "passage_title": "My School Day",
+    "passage_text": "Reference text above.",
+    "gap_number": 5,
+    "question": "Choose the best option for gap (5):",
+    "options": ["before", "during", "so", "until"],
+    "answer": "before",
+    "tip": "Conector temporal indicando anterioridade antes do regresso a casa."
   },
   {
     "id": 6,
     "level": "A1",
-    "question": "Can you pass me _____ pencil over there on the teacher's desk?",
-    "options": ["that", "this", "these", "those"],
-    "answer": "that",
-    "tip": "Objeto singular ('pencil') distante do falante ('over there') pede o pronome demonstrativo 'that'."
+    "passage_title": "My School Day",
+    "passage_text": "Reference text above.",
+    "gap_number": 6,
+    "question": "Choose the best option for gap (6):",
+    "options": ["of", "with", "from", "about"],
+    "answer": "of",
+    "tip": "Colocação fixa do adjetivo: 'full of' (cheio de)."
   },
   {
     "id": 7,
-    "level": "A1",
-    "question": "We _____ to the cinema last Saturday because my brother was ill.",
-    "options": ["didn't go", "don't go", "weren't go", "haven't gone"],
-    "answer": "didn't go",
-    "tip": "Ações finalizadas com marcador específico de tempo passado ('last Saturday') exigem 'didn't + verbo base'."
+    "level": "A2",
+    "passage_title": "A Weekend in the Mountains",
+    "passage_text": "Last winter, my family and I decided to spend the weekend in the mountains. When we (7) _____ at the wooden cabin, it was already getting dark and cold. While my father was preparing a fire, my brother and I (8) _____ outside to explore the area. The ground was completely white because it had started to snow. It was much (9) _____ than in our hometown, so we had to wear heavy jackets. Later that evening, we played board games together. We were quite tired, but nobody wanted to go to bed early (10) _____ we were having so much fun. It was certainly one of the (11) _____ trips we have ever had, and we hope to return (12) _____ next year.",
+    "gap_number": 7,
+    "question": "Choose the best option for gap (7):",
+    "options": ["arrived", "reached", "got", "came"],
+    "answer": "arrived",
+    "tip": "'Arrive at' é a regência verbal correta para pontos específicos no espaço."
   },
   {
     "id": 8,
-    "level": "A1",
-    "question": "Look at the sky! It's very dark and cloudy; it _____ rain soon.",
-    "options": ["is going to", "goes to", "is to", "shall"],
-    "answer": "is going to",
-    "tip": "'Be going to' é usado para previsões futuras baseadas em evidências visuais presentes e claras."
+    "level": "A2",
+    "passage_title": "A Weekend in the Mountains",
+    "passage_text": "Reference text above.",
+    "gap_number": 8,
+    "question": "Choose the best option for gap (8):",
+    "options": ["went", "gone", "were going", "have gone"],
+    "answer": "went",
+    "tip": "Ação pontual e concluída no passado (Past Simple irregular)."
   },
   {
     "id": 9,
-    "level": "A1",
-    "question": "My older sister is very good _____ playing badminton.",
-    "options": ["at", "in", "on", "for"],
-    "answer": "at",
-    "tip": "A colocação adjetival com 'good' para indicar habilidade sempre rege a preposição 'at'."
+    "level": "A2",
+    "passage_title": "A Weekend in the Mountains",
+    "passage_text": "Reference text above.",
+    "gap_number": 9,
+    "question": "Choose the best option for gap (9):",
+    "options": ["colder", "coldest", "more cold", "as cold"],
+    "answer": "colder",
+    "tip": "Grau comparativo de adjetivo curto de uma sílaba (-er + than)."
   },
   {
     "id": 10,
-    "level": "A1",
-    "question": "There aren't _____ clean glasses in the kitchen cupboard.",
-    "options": ["any", "some", "much", "no"],
-    "answer": "any",
-    "tip": "Em orações negativas com substantivos contáveis no plural ('glasses'), emprega-se 'any'."
+    "level": "A2",
+    "passage_title": "A Weekend in the Mountains",
+    "passage_text": "Reference text above.",
+    "gap_number": 10,
+    "question": "Choose the best option for gap (10):",
+    "options": ["because", "although", "unless", "so"],
+    "answer": "because",
+    "tip": "Conector explicativo que introduz a causa de ficarem acordados."
   },
   {
     "id": 11,
     "level": "A2",
-    "question": "EMAIL FROM COACH:\n'Practice is cancelled today due to rain. Instead, watch the tactical video posted on our team group.'\nWhat should the team do today?",
-    "options": [
-      "Play soccer in the rain.",
-      "Meet in the school gym.",
-      "Watch an instructional video at home.",
-      "Record a soccer video for the coach."
-    ],
-    "answer": "Watch an instructional video at home.",
-    "tip": "O técnico cancela o treino físico e orienta que assistam ao vídeo tático disponível no grupo virtual."
+    "passage_title": "A Weekend in the Mountains",
+    "passage_text": "Reference text above.",
+    "gap_number": 11,
+    "question": "Choose the best option for gap (11):",
+    "options": ["best", "better", "good", "finest"],
+    "answer": "best",
+    "tip": "Grau superlativo irregular de 'good': 'one of the best trips'."
   },
   {
     "id": 12,
     "level": "A2",
-    "question": "TEXT CLOZE:\n'Penguins are remarkable birds. Even though they have wings, they cannot fly. Instead, their wings have evolved into stiff flippers, which help them swim _____ underwater.'",
-    "options": ["easily", "easy", "easier", "easiest"],
-    "answer": "easily",
-    "tip": "Para modificar o verbo 'swim', é necessário o advérbio de modo ('easily'), e não a forma adjetiva."
+    "passage_title": "A Weekend in the Mountains",
+    "passage_text": "Reference text above.",
+    "gap_number": 12,
+    "question": "Choose the best option for gap (12):",
+    "options": ["sometime", "never", "yet", "still"],
+    "answer": "sometime",
+    "tip": "'Sometime' refere-se a um momento indeterminado no futuro."
   },
   {
     "id": 13,
-    "level": "A2",
-    "question": "SENTENCE TRANSFORMATION:\nOriginal: 'This computer game is too difficult for beginner players.'\nNew sentence: 'This computer game is not _____ for beginner players.'",
-    "options": ["easy enough", "enough easy", "so difficult", "too easy"],
-    "answer": "easy enough",
-    "tip": "'Too difficult' equivale a 'not easy enough'. O advérbio 'enough' posiciona-se após adjetivos."
+    "level": "B1",
+    "passage_title": "The Evolution of the Bicycle",
+    "passage_text": "Today, bicycles are seen as an environmentally friendly mode of transport, but their design has changed dramatically over time. In the early 19th century, the first models had no pedals and were propelled simply by pushing the feet along the ground. Later, larger wheels were introduced, although they were quite dangerous to ride. Modern bicycles, which (13) _____ widely produced in the late 1800s, brought chain drives and equal-sized wheels. Since then, manufacturers have continuously (14) _____ new lightweight materials to improve safety and comfort. Today, cycling is not only popular for commuting, but it has also (15) _____ an Olympic sport with millions of supporters. As a (16) _____, cities across the globe are constructing dedicated bike lanes to encourage citizens to ride. However, cyclists must still (17) _____ attention to road signs, especially when riding in heavy traffic, to avoid accidents and ensure everyone travels (18) _____.",
+    "gap_number": 13,
+    "question": "Choose the best option for gap (13):",
+    "options": ["were", "had been", "are", "have been"],
+    "answer": "were",
+    "tip": "Voz passiva no Past Simple referente a uma época histórica definida ('late 1800s')."
   },
   {
     "id": 14,
-    "level": "A2",
-    "question": "While the teacher _____ the experiment on the board, the school bell rang.",
-    "options": ["was explaining", "explained", "has explained", "is explaining"],
-    "answer": "was explaining",
-    "tip": "Ação contínua em progresso no passado interrompida por evento pontual: Past Continuous ('was explaining')."
+    "level": "B1",
+    "passage_title": "The Evolution of the Bicycle",
+    "passage_text": "Reference text above.",
+    "gap_number": 14,
+    "question": "Choose the best option for gap (14):",
+    "options": ["adopted", "invented", "discovered", "accepted"],
+    "answer": "adopted",
+    "tip": "'Adopt new materials' é a colocação técnica apropriada para a incorporação de recursos na indústria."
   },
   {
     "id": 15,
-    "level": "A2",
-    "question": "LIBRARY RULE:\n'Students may borrow up to four books at a time, but they _____ return them within two weeks.'",
-    "options": ["must", "can", "might", "shall"],
-    "answer": "must",
-    "tip": "'Must' expressa obrigação e regra institucional mandatória."
+    "level": "B1",
+    "passage_title": "The Evolution of the Bicycle",
+    "passage_text": "Reference text above.",
+    "gap_number": 15,
+    "question": "Choose the best option for gap (15):",
+    "options": ["become", "turned", "made", "resulted"],
+    "answer": "become",
+    "tip": "Particípio do verbo 'become' com o Present Perfect para indicar transformação ao longo do tempo."
   },
   {
     "id": 16,
-    "level": "A2",
-    "question": "I have been interested in robotic engineering _____ I visited the science museum in 2024.",
-    "options": ["since", "for", "from", "during"],
-    "answer": "since",
-    "tip": "'Since' marca o ponto de partida específico no passado para uma ação que perdura até o presente."
+    "level": "B1",
+    "passage_title": "The Evolution of the Bicycle",
+    "passage_text": "Reference text above.",
+    "gap_number": 16,
+    "question": "Choose the best option for gap (16):",
+    "options": ["result", "purpose", "matter", "conclusion"],
+    "answer": "result",
+    "tip": "A locução conectiva formal de causa-efeito é 'as a result'."
   },
   {
     "id": 17,
-    "level": "A2",
-    "question": "TEXT CLOZE:\n'The Amazon rainforest covers a massive area. It is home to thousands of animal species that cannot be found _____ else in the world.'",
-    "options": ["anywhere", "somewhere", "nowhere", "everywhere"],
-    "answer": "anywhere",
-    "tip": "Em frases com sentido negativo ('cannot be found'), emprega-se 'anywhere else' (em nenhum outro lugar)."
+    "level": "B1",
+    "passage_title": "The Evolution of the Bicycle",
+    "passage_text": "Reference text above.",
+    "gap_number": 17,
+    "question": "Choose the best option for gap (17):",
+    "options": ["pay", "give", "make", "keep"],
+    "answer": "pay",
+    "tip": "Colocação fixa em inglês: 'pay attention' (prestar atenção)."
   },
   {
     "id": 18,
-    "level": "A2",
-    "question": "My brother decided _____ up guitar lessons so he could join the school band.",
-    "options": ["to take", "taking", "take", "in taking"],
-    "answer": "to take",
-    "tip": "O verbo 'decide' rege infinitivo com 'to'. O phrasal verb 'take up' significa iniciar um hobby/atividade."
+    "level": "B1",
+    "passage_title": "The Evolution of the Bicycle",
+    "passage_text": "Reference text above.",
+    "gap_number": 18,
+    "question": "Choose the best option for gap (18):",
+    "options": ["safely", "safe", "safety", "safer"],
+    "answer": "safely",
+    "tip": "Advérbio de modo necessário para modificar o verbo de deslocação 'travels'."
   },
   {
     "id": 19,
-    "level": "A2",
-    "question": "SENTENCE TRANSFORMATION:\nOriginal: 'Nobody in our class is taller than Gabriel.'\nNew sentence: 'Gabriel is _____ student in our class.'",
-    "options": ["the tallest", "tallest", "the taller", "most tall"],
-    "answer": "the tallest",
-    "tip": "A comparação de superioridade máxima em relação ao grupo inteiro exige o grau superlativo ('the tallest')."
+    "level": "B2",
+    "passage_title": "Sleep and Cognitive Function",
+    "passage_text": "Scientific research has demonstrated that sleep plays a pivotal role in maintaining neurological balance. During deep sleep cycles, the brain actively clears metabolic waste products that accumulate throughout the waking hours. This essential maintenance provides cognitive (19) _____ that directly enhance learning, memory consolidation, and emotional stability. However, chronic sleep deprivation can have severe repercussions, (20) _____ compromising attention span and problem-solving abilities. When individuals consistently fail to obtain adequate rest, their academic performance suffers (21) _____ on the grounds of diminished neural plasticity. Contrary to popular (22) _____, the brain does not simply shut down during sleep; instead, it undergoes complex biochemical reorganization. Neurologists therefore strongly recommend that adolescents (23) _____ a consistent sleep schedule of at least eight hours per night. Ultimately, prioritizing healthy sleep patterns is not merely an optional indulgence, but a fundamental prerequisite for sustained intellectual (24) _____.",
+    "gap_number": 19,
+    "question": "Choose the best option for gap (19):",
+    "options": ["benefits", "profits", "rewards", "gains"],
+    "answer": "benefits",
+    "tip": "'Cognitive benefits' é a colocação académica natural para ganhos funcionais da mente."
   },
   {
     "id": 20,
-    "level": "A2",
-    "question": "Could you please turn _____ the music? I am trying to concentrate on my homework.",
-    "options": ["down", "off", "out", "away"],
-    "answer": "down",
-    "tip": "'Turn down' é o phrasal verb correto para diminuir a intensidade/volume do som."
+    "level": "B2",
+    "passage_title": "Sleep and Cognitive Function",
+    "passage_text": "Reference text above.",
+    "gap_number": 20,
+    "question": "Choose the best option for gap (20):",
+    "options": ["thereby", "whereas", "otherwise", "nevertheless"],
+    "answer": "thereby",
+    "tip": "'Thereby' é um conectivo formal que significa 'dessa forma / por meio disso', seguido de gerúndio."
   },
   {
     "id": 21,
-    "level": "B1",
-    "question": "TEXT CLOZE (SCIENCE ARTICLE):\n'Bees perform an essential role in agricultural ecosystems. As they collect nectar, they transfer pollen between plants, which allows crops to _____ fruit and seeds.'",
-    "options": ["produce", "create", "manufacture", "invent"],
-    "answer": "produce",
-    "tip": "Plantas e colheitas 'produzem' frutos biologicamente; 'manufacture' refere-se à indústria mecânica e 'invent' a ideias."
+    "level": "B2",
+    "passage_title": "Sleep and Cognitive Function",
+    "passage_text": "Reference text above.",
+    "gap_number": 21,
+    "question": "Choose the best option for gap (21):",
+    "options": ["largely", "deeply", "strictly", "densely"],
+    "answer": "largely",
+    "tip": "Colocação acadêmica: 'largely on the grounds of' (em grande parte com base em)."
   },
   {
     "id": 22,
-    "level": "B1",
-    "question": "SENTENCE TRANSFORMATION:\nOriginal: 'They built the laboratory telescope in 1998.'\nNew sentence: 'The laboratory telescope _____ in 1998.'",
-    "options": ["was built", "has been built", "is built", "had built"],
-    "answer": "was built",
-    "tip": "Transformação para a voz passiva no Past Simple: 'was/were + past participle'."
+    "level": "B2",
+    "passage_title": "Sleep and Cognitive Function",
+    "passage_text": "Reference text above.",
+    "gap_number": 22,
+    "question": "Choose the best option for gap (22):",
+    "options": ["belief", "thought", "vision", "attitude"],
+    "answer": "belief",
+    "tip": "Expressão idiomática fixa em ensaios formais: 'contrary to popular belief'."
   },
   {
     "id": 23,
-    "level": "B1",
-    "question": "If our school team _____ harder during the preliminary round, they would have won the regional cup.",
-    "options": ["had trained", "trained", "has trained", "would train"],
-    "answer": "had trained",
-    "tip": "Third Conditional (hipótese irreal sobre o passado): oração com 'if' exige Past Perfect ('had trained')."
+    "level": "B2",
+    "passage_title": "Sleep and Cognitive Function",
+    "passage_text": "Reference text above.",
+    "gap_number": 23,
+    "question": "Choose the best option for gap (23):",
+    "options": ["maintain", "maintains", "maintained", "are maintaining"],
+    "answer": "maintain",
+    "tip": "Subjuntivo em inglês (Present Subjunctive) após verbos de recomendação formal: exige a forma base do verbo."
   },
   {
     "id": 24,
-    "level": "B1",
-    "question": "The science teacher asked Daniel why _____ his lab report on time.",
-    "options": [
-      "he hadn't submitted",
-      "hadn't he submitted",
-      "didn't he submit",
-      "he didn't submitted"
-    ],
-    "answer": "he hadn't submitted",
-    "tip": "Em discurso indireto (Reported Speech), a ordem de oração subordinada não admite inversão de pergunta."
-  },
-  {
-    "id": 25,
-    "level": "B1",
-    "question": "SCHOOL BULLETIN:\n'Volunteers needed for the community garden project. No previous agricultural experience is necessary, provided that you are willing to learn.'\nAccording to the bulletin, volunteers:",
-    "options": [
-      "Must have worked in community gardens before.",
-      "Can participate as long as they want to learn.",
-      "Will be paid for their agricultural work.",
-      "Need to pass a gardening examination."
-    ],
-    "answer": "Can participate as long as they want to learn.",
-    "tip": "'Provided that' introduz condição necessária ('desde que/contanto que você esteja disposto a aprender')."
-  },
-  {
-    "id": 26,
-    "level": "B1",
-    "question": "TEXT CLOZE:\n'The invention of the printing press meant that books could be distributed at a much lower cost. As a _____, literacy rates began to climb significantly across Europe.'",
-    "options": ["result", "cause", "purpose", "reason"],
-    "answer": "result",
-    "tip": "A locução conectiva 'as a result' expressa relação de consequência direta em textos formais."
-  },
-  {
-    "id": 27,
-    "level": "B1",
-    "question": "SENTENCE TRANSFORMATION:\nOriginal: 'I advise you not to swim in the lake today.'\nNew sentence: 'If I were you, I _____ swim in the lake today.'",
-    "options": ["wouldn't", "won't", "mustn't", "shouldn't have"],
-    "answer": "wouldn't",
-    "tip": "A estrutura de conselho com Second Conditional é 'If I were you, I would / wouldn't...'."
-  },
-  {
-    "id": 28,
-    "level": "B1",
-    "question": "Despite _____ heavily throughout the morning, the organizers decided to proceed with the track meet.",
-    "options": ["raining", "it rained", "of the rain", "rain"],
-    "answer": "raining",
-    "tip": "A preposição concessiva 'despite' exige substantivo ou verbo com terminação '-ing'."
-  },
-  {
-    "id": 29,
-    "level": "B1",
-    "question": "Neither the headmaster _____ the teachers were aware of the technical failure in the auditorium.",
-    "options": ["nor", "or", "and", "but"],
-    "answer": "nor",
-    "tip": "A conjunção correlativa correta em inglês formal é 'neither... nor'."
-  },
-  {
-    "id": 30,
-    "level": "B1",
-    "question": "Can you check if there is enough milk in the pantry? I am not keen _____ drinking black coffee.",
-    "options": ["on", "at", "about", "with"],
-    "answer": "on",
-    "tip": "A expressão idiomática com adjetivo 'keen' rege obrigatoriamente a preposição 'on' ('keen on something')."
-  },
-  {
-    "id": 31,
     "level": "B2",
-    "question": "TEXT CLOZE (HISTORY OF TECHNOLOGY):\n'The discovery provided researchers with valuable _____ into how medieval architects designed self-supporting stone domes without modern computational tools.'",
-    "options": ["insights", "views", "spectacles", "outlooks"],
-    "answer": "insights",
-    "tip": "'Insight into' é uma colocação nominal fixa que indica compreensão aprofundada de um fenômeno."
-  },
-  {
-    "id": 32,
-    "level": "B2",
-    "question": "SENTENCE TRANSFORMATION:\nOriginal: 'The museum had rarely exhibited such an intact dinosaur skeleton.'\nNew sentence: 'Rarely _____ such an intact dinosaur skeleton.'",
-    "options": [
-      "had the museum exhibited",
-      "the museum had exhibited",
-      "did the museum exhibited",
-      "exhibited the museum"
-    ],
-    "answer": "had the museum exhibited",
-    "tip": "Inversão enfática: advérbios negativos/restritivos ('Rarely') no início exigem inversão 'auxiliar + sujeito'."
-  },
-  {
-    "id": 33,
-    "level": "B2",
-    "question": "The experiment did not yield valid findings _____ because the laboratory instruments had not been properly calibrated.",
-    "options": ["largely", "highly", "deeply", "widely"],
-    "answer": "largely",
-    "tip": "O advérbio 'largely' combina naturalmente com 'because' para significar 'em grande parte devido a'."
-  },
-  {
-    "id": 34,
-    "level": "B2",
-    "question": "The archeological conference was postponed on the _____ that severe weather would prevent overseas delegates from arriving.",
-    "options": ["grounds", "reasons", "terms", "points"],
-    "answer": "grounds",
-    "tip": "Colocação formal em registros acadêmicos: 'on the grounds that / of' (sob o fundamento/motivo de)."
-  },
-  {
-    "id": 35,
-    "level": "B2",
-    "question": "SENTENCE TRANSFORMATION:\nOriginal: 'I regret not checking the train timetable earlier.'\nNew sentence: 'I wish I _____ the train timetable earlier.'",
-    "options": ["had checked", "checked", "have checked", "would check"],
-    "answer": "had checked",
-    "tip": "Expressões de arrependimento sobre eventos passados com 'wish' exigem o Past Perfect ('had checked')."
-  },
-  {
-    "id": 36,
-    "level": "B2",
-    "question": "_____ the historical manuscripts thoroughly, the research committee published their conclusive findings.",
-    "options": [
-      "Having analyzed",
-      "Analyzing of",
-      "Being analyzed",
-      "On analyzed"
-    ],
-    "answer": "Having analyzed",
-    "tip": "'Perfect Participle Clause' ('Having + past participle') estabelece causa e conclusão anterior à oração principal."
-  },
-  {
-    "id": 37,
-    "level": "B2",
-    "question": "The university ethics board recommended that the laboratory _____ all testing protocols immediately.",
-    "options": ["suspend", "suspends", "suspended", "will suspend"],
-    "answer": "suspend",
-    "tip": "Present Subjunctive em inglês: verbos de recomendação formal exigem a forma base do verbo (sem -s na 3ª pessoa)."
-  },
-  {
-    "id": 38,
-    "level": "B2",
-    "question": "TEXT CLOZE:\n'Marine biologists were amazed to discover that the coral reef was slowly recovering, completely contrary to earlier scientific _____.'",
-    "options": ["expectations", "intentions", "proposals", "ambitions"],
-    "answer": "expectations",
-    "tip": "'Contrary to expectations' é uma expressão idiomática fixa para indicar desfecho oposto ao previsto."
-  },
-  {
-    "id": 39,
-    "level": "B2",
-    "question": "SENTENCE TRANSFORMATION:\nOriginal: 'It is almost certain that the ancient scroll was written by royal scribes.'\nNew sentence: 'The ancient scroll _____ by royal scribes.'",
-    "options": [
-      "must have been written",
-      "should have been written",
-      "could have written",
-      "would have written"
-    ],
-    "answer": "must have been written",
-    "tip": "Dedução retrospectiva de alta certeza na voz passiva: 'must have been + past participle'."
-  },
-  {
-    "id": 40,
-    "level": "B2",
-    "question": "The student council representative was _____ determined to ensure fair access to digital resources for all classes.",
-    "options": ["fiercely", "heavily", "densely", "harshly"],
-    "answer": "fiercely",
-    "tip": "Colocação enfática autêntica: o advérbio 'fiercely' combina com 'determined' para indicar convicção inabalável."
+    "passage_title": "Sleep and Cognitive Function",
+    "passage_text": "Reference text above.",
+    "gap_number": 24,
+    "question": "Choose the best option for gap (24):",
+    "options": ["growth", "expansion", "enlargement", "rise"],
+    "answer": "growth",
+    "tip": "'Intellectual growth' é a colocação convencional para desenvolvimento cognitivo."
   }
 ]
