@@ -2,321 +2,366 @@
   {
     "id": 1,
     "level": "A1",
-    "question": "My sister _____ at a bank in the city center.",
-    "options": ["work", "works", "is work", "working"],
-    "answer": "works",
-    "tip": "Adiciona-se -s ao verbo para a 3ª pessoa do singular (he, she, it) no Present Simple."
+    "question": "NOTICE IN CLASSROOM:\n'Please leave your sports shoes outside before entering the gym.'\nWhat must students do?",
+    "options": [
+      "Do not wear sports shoes inside the gym.",
+      "Bring extra sports shoes to class.",
+      "Clean your sports shoes inside the gym.",
+      "Leave the gym to buy new sports shoes."
+    ],
+    "answer": "Do not wear sports shoes inside the gym.",
+    "tip": "O aviso indica 'leave outside' (deixar do lado de fora), o que significa não usá-los dentro do ambiente."
   },
   {
     "id": 2,
     "level": "A1",
-    "question": "They _____ Brazilian; they come from Canada.",
-    "options": ["aren't", "isn't", "don't", "not are"],
-    "answer": "aren't",
-    "tip": "Para o pronome 'they', a negativa do verbo to be é 'aren't'."
+    "question": "TEXT MESSAGE FROM LUCAS:\n'Hi Mom, I am at Leo's house. His father is driving us to soccer practice at 5:00. See you later!'\nLucas is writing to:",
+    "options": [
+      "Ask his mother for a ride.",
+      "Explain where he is and his plans.",
+      "Invite Leo to soccer practice.",
+      "Remind his mother to pick him up."
+    ],
+    "answer": "Explain where he is and his plans.",
+    "tip": "A mensagem informa a localização atual (na casa de Leo) e a programação seguinte (ir ao treino)."
   },
   {
     "id": 3,
     "level": "A1",
-    "question": "Excuse me, _____ a hospital near here?",
-    "options": ["there is", "is there", "are there", "there are"],
-    "answer": "is there",
-    "tip": "Em perguntas sobre a existência de algo no singular, usa-se 'is there'."
+    "question": "Sarah usually _____ breakfast with her family before school, but today she woke up late.",
+    "options": ["has", "have", "having", "is have"],
+    "answer": "has",
+    "tip": "Rotinas com sujeito na 3ª pessoa do singular ('Sarah') exigem a forma 'has' no Present Simple."
   },
   {
     "id": 4,
     "level": "A1",
-    "question": "Our English class begins _____ 8:00 AM.",
-    "options": ["in", "on", "at", "to"],
-    "answer": "at",
-    "tip": "Usamos a preposição 'at' para horas exatas do relógio."
+    "question": "Excuse me, how much _____ these blue notebooks cost?",
+    "options": ["do", "does", "are", "is"],
+    "answer": "do",
+    "tip": "O sujeito está no plural ('these blue notebooks'), portanto o verbo auxiliar de pergunta é 'do'."
   },
   {
     "id": 5,
     "level": "A1",
-    "question": "There isn't _____ milk left in the bottle.",
-    "options": ["some", "any", "no", "many"],
-    "answer": "any",
-    "tip": "Usa-se 'any' em orações negativas com substantivos incontáveis."
+    "question": "LUNCHROOM SIGN:\n'Take one sandwich and one apple per student. Sandwiches cannot be taken outside.'\nWhat is TRUE according to the sign?",
+    "options": [
+      "You can eat your sandwich outside in the yard.",
+      "You may take two sandwiches if you don't take an apple.",
+      "All sandwiches must be eaten inside the lunchroom.",
+      "Students have to pay for the apples."
+    ],
+    "answer": "All sandwiches must be eaten inside the lunchroom.",
+    "tip": "Se os lanches não podem ser levados para fora ('cannot be taken outside'), devem ser consumidos dentro."
   },
   {
     "id": 6,
     "level": "A1",
-    "question": "Where _____ your parents live?",
-    "options": ["do", "does", "are", "is"],
-    "answer": "do",
-    "tip": "'Your parents' equivale a 'they', portanto o auxiliar do Present Simple é 'do'."
+    "question": "Can you pass me _____ pencil over there on the teacher's desk?",
+    "options": ["that", "this", "these", "those"],
+    "answer": "that",
+    "tip": "Objeto singular ('pencil') distante do falante ('over there') pede o pronome demonstrativo 'that'."
   },
   {
     "id": 7,
     "level": "A1",
-    "question": "This is _____ book. My name is written on the first page.",
-    "options": ["my", "mine", "me", "I"],
-    "answer": "my",
-    "tip": "Usa-se o adjetivo possessivo 'my' antes do substantivo 'book'."
+    "question": "We _____ to the cinema last Saturday because my brother was ill.",
+    "options": ["didn't go", "don't go", "weren't go", "haven't gone"],
+    "answer": "didn't go",
+    "tip": "Ações finalizadas com marcador específico de tempo passado ('last Saturday') exigem 'didn't + verbo base'."
   },
   {
     "id": 8,
     "level": "A1",
-    "question": "Look at _____ birds sitting on the roof over there.",
-    "options": ["this", "that", "these", "those"],
-    "answer": "those",
-    "tip": "Para elementos no plural que estão distantes ('over there'), usa-se 'those'."
+    "question": "Look at the sky! It's very dark and cloudy; it _____ rain soon.",
+    "options": ["is going to", "goes to", "is to", "shall"],
+    "answer": "is going to",
+    "tip": "'Be going to' é usado para previsões futuras baseadas em evidências visuais presentes e claras."
   },
   {
     "id": 9,
     "level": "A1",
-    "question": "Lucas can _____ two musical instruments very well.",
-    "options": ["play", "plays", "playing", "to play"],
-    "answer": "play",
-    "tip": "Após verbos modais como 'can', o verbo principal permanece na forma base (infinitivo sem 'to')."
+    "question": "My older sister is very good _____ playing badminton.",
+    "options": ["at", "in", "on", "for"],
+    "answer": "at",
+    "tip": "A colocação adjetival com 'good' para indicar habilidade sempre rege a preposição 'at'."
   },
   {
     "id": 10,
     "level": "A1",
-    "question": "We _____ school on Saturdays and Sundays.",
-    "options": ["don't have", "doesn't have", "haven't", "aren't have"],
-    "answer": "don't have",
-    "tip": "A negativa de rotinas com 'we' no Present Simple é formada com 'don't + verbo base'."
+    "question": "There aren't _____ clean glasses in the kitchen cupboard.",
+    "options": ["any", "some", "much", "no"],
+    "answer": "any",
+    "tip": "Em orações negativas com substantivos contáveis no plural ('glasses'), emprega-se 'any'."
   },
   {
     "id": 11,
     "level": "A2",
-    "question": "Yesterday, we _____ ten kilometers in the morning.",
-    "options": ["run", "ran", "have run", "running"],
-    "answer": "ran",
-    "tip": "'Yesterday' indica passado definido e exige o Past Simple (forma irregular 'ran')."
+    "question": "EMAIL FROM COACH:\n'Practice is cancelled today due to rain. Instead, watch the tactical video posted on our team group.'\nWhat should the team do today?",
+    "options": [
+      "Play soccer in the rain.",
+      "Meet in the school gym.",
+      "Watch an instructional video at home.",
+      "Record a soccer video for the coach."
+    ],
+    "answer": "Watch an instructional video at home.",
+    "tip": "O técnico cancela o treino físico e orienta que assistam ao vídeo tático disponível no grupo virtual."
   },
   {
     "id": 12,
     "level": "A2",
-    "question": "This metal ruler is _____ than the wooden one.",
-    "options": ["more heavy", "heavier", "heaviest", "as heavy"],
-    "answer": "heavier",
-    "tip": "Adjetivos curtos terminados em consoante + 'y' trocam por '-ier' no grau comparativo."
+    "question": "TEXT CLOZE:\n'Penguins are remarkable birds. Even though they have wings, they cannot fly. Instead, their wings have evolved into stiff flippers, which help them swim _____ underwater.'",
+    "options": ["easily", "easy", "easier", "easiest"],
+    "answer": "easily",
+    "tip": "Para modificar o verbo 'swim', é necessário o advérbio de modo ('easily'), e não a forma adjetiva."
   },
   {
     "id": 13,
     "level": "A2",
-    "question": "What _____ you do tomorrow if it stays sunny?",
-    "options": ["did", "are", "will", "have"],
-    "answer": "will",
-    "tip": "Usa-se 'will' para formular perguntas sobre ações e condições futuras."
+    "question": "SENTENCE TRANSFORMATION:\nOriginal: 'This computer game is too difficult for beginner players.'\nNew sentence: 'This computer game is not _____ for beginner players.'",
+    "options": ["easy enough", "enough easy", "so difficult", "too easy"],
+    "answer": "easy enough",
+    "tip": "'Too difficult' equivale a 'not easy enough'. O advérbio 'enough' posiciona-se após adjetivos."
   },
   {
     "id": 14,
     "level": "A2",
-    "question": "He loves _____ historical articles on the internet.",
-    "options": ["read", "reading", "to reading", "reads"],
-    "answer": "reading",
-    "tip": "Verbos de preferência afetiva como 'love' e 'enjoy' são comumente seguidos de gerúndio (-ing)."
+    "question": "While the teacher _____ the experiment on the board, the school bell rang.",
+    "options": ["was explaining", "explained", "has explained", "is explaining"],
+    "answer": "was explaining",
+    "tip": "Ação contínua em progresso no passado interrompida por evento pontual: Past Continuous ('was explaining')."
   },
   {
     "id": 15,
     "level": "A2",
-    "question": "Julia has lived in this neighborhood _____ three years.",
-    "options": ["since", "for", "during", "ago"],
-    "answer": "for",
-    "tip": "'For' é utilizado para indicar a duração total de um intervalo de tempo."
+    "question": "LIBRARY RULE:\n'Students may borrow up to four books at a time, but they _____ return them within two weeks.'",
+    "options": ["must", "can", "might", "shall"],
+    "answer": "must",
+    "tip": "'Must' expressa obrigação e regra institucional mandatória."
   },
   {
     "id": 16,
     "level": "A2",
-    "question": "While we _____ in the garden, it started to rain heavily.",
-    "options": ["walked", "were walking", "are walking", "have walked"],
-    "answer": "were walking",
-    "tip": "Past Continuous ('were walking') indica uma ação em andamento interrompida por outra no passado."
+    "question": "I have been interested in robotic engineering _____ I visited the science museum in 2024.",
+    "options": ["since", "for", "from", "during"],
+    "answer": "since",
+    "tip": "'Since' marca o ponto de partida específico no passado para uma ação que perdura até o presente."
   },
   {
     "id": 17,
     "level": "A2",
-    "question": "Mount Everest is the _____ mountain in the world.",
-    "options": ["higher", "more high", "highest", "most high"],
-    "answer": "highest",
-    "tip": "O superlativo de adjetivos curtos é formado com o artigo 'the' + terminação '-est'."
+    "question": "TEXT CLOZE:\n'The Amazon rainforest covers a massive area. It is home to thousands of animal species that cannot be found _____ else in the world.'",
+    "options": ["anywhere", "somewhere", "nowhere", "everywhere"],
+    "answer": "anywhere",
+    "tip": "Em frases com sentido negativo ('cannot be found'), emprega-se 'anywhere else' (em nenhum outro lugar)."
   },
   {
     "id": 18,
     "level": "A2",
-    "question": "We arrived _____ the bus station just before departure.",
-    "options": ["at", "in", "to", "on"],
-    "answer": "at",
-    "tip": "Usa-se a preposição 'at' com o verbo 'arrive' para pontos específicos ou estações/edifícios."
+    "question": "My brother decided _____ up guitar lessons so he could join the school band.",
+    "options": ["to take", "taking", "take", "in taking"],
+    "answer": "to take",
+    "tip": "O verbo 'decide' rege infinitivo com 'to'. O phrasal verb 'take up' significa iniciar um hobby/atividade."
   },
   {
     "id": 19,
     "level": "A2",
-    "question": "I don't have _____ time to finish this drawing right now.",
-    "options": ["many", "much", "a lot", "few"],
-    "answer": "much",
-    "tip": "'Time' (no sentido de tempo disponível) é substantivo incontável, exigindo 'much' na negativa."
+    "question": "SENTENCE TRANSFORMATION:\nOriginal: 'Nobody in our class is taller than Gabriel.'\nNew sentence: 'Gabriel is _____ student in our class.'",
+    "options": ["the tallest", "tallest", "the taller", "most tall"],
+    "answer": "the tallest",
+    "tip": "A comparação de superioridade máxima em relação ao grupo inteiro exige o grau superlativo ('the tallest')."
   },
   {
     "id": 20,
     "level": "A2",
-    "question": "Did you remember _____ the front door before leaving?",
-    "options": ["lock", "to lock", "locking", "locked"],
-    "answer": "to lock",
-    "tip": "'Remember to do something' significa lembrar-se de realizar uma tarefa necessária."
+    "question": "Could you please turn _____ the music? I am trying to concentrate on my homework.",
+    "options": ["down", "off", "out", "away"],
+    "answer": "down",
+    "tip": "'Turn down' é o phrasal verb correto para diminuir a intensidade/volume do som."
   },
   {
     "id": 21,
     "level": "B1",
-    "question": "The science team hasn't finished the investigation _____.",
-    "options": ["already", "still", "yet", "just"],
-    "answer": "yet",
-    "tip": "'Yet' posiciona-se no final de sentenças negativas para indicar que algo esperado ainda não ocorreu."
+    "question": "TEXT CLOZE (SCIENCE ARTICLE):\n'Bees perform an essential role in agricultural ecosystems. As they collect nectar, they transfer pollen between plants, which allows crops to _____ fruit and seeds.'",
+    "options": ["produce", "create", "manufacture", "invent"],
+    "answer": "produce",
+    "tip": "Plantas e colheitas 'produzem' frutos biologicamente; 'manufacture' refere-se à indústria mecânica e 'invent' a ideias."
   },
   {
     "id": 22,
     "level": "B1",
-    "question": "If they had better tools, they _____ the project faster.",
-    "options": ["will build", "would build", "built", "build"],
-    "answer": "would build",
-    "tip": "Second Conditional: a estrutura hipotética 'If + Past Simple' combina com 'would + verbo base'."
+    "question": "SENTENCE TRANSFORMATION:\nOriginal: 'They built the laboratory telescope in 1998.'\nNew sentence: 'The laboratory telescope _____ in 1998.'",
+    "options": ["was built", "has been built", "is built", "had built"],
+    "answer": "was built",
+    "tip": "Transformação para a voz passiva no Past Simple: 'was/were + past participle'."
   },
   {
     "id": 23,
     "level": "B1",
-    "question": "The old town hall _____ by local builders in 1925.",
-    "options": ["built", "was built", "is built", "has built"],
-    "answer": "was built",
-    "tip": "Voz passiva no passado com foco no objeto: 'was/were + particípio passado'."
+    "question": "If our school team _____ harder during the preliminary round, they would have won the regional cup.",
+    "options": ["had trained", "trained", "has trained", "would train"],
+    "answer": "had trained",
+    "tip": "Third Conditional (hipótese irreal sobre o passado): oração com 'if' exige Past Perfect ('had trained')."
   },
   {
     "id": 24,
     "level": "B1",
-    "question": "The teacher asked us where _____ our science notebooks.",
-    "options": ["had we left", "we had left", "did we leave", "we leave"],
-    "answer": "we had left",
-    "tip": "Em Reported Speech (discurso indireto), a ordem volta a ser afirmativa: sujeito antes do verbo."
+    "question": "The science teacher asked Daniel why _____ his lab report on time.",
+    "options": [
+      "he hadn't submitted",
+      "hadn't he submitted",
+      "didn't he submit",
+      "he didn't submitted"
+    ],
+    "answer": "he hadn't submitted",
+    "tip": "Em discurso indireto (Reported Speech), a ordem de oração subordinada não admite inversão de pergunta."
   },
   {
     "id": 25,
     "level": "B1",
-    "question": "Students _____ enter the staff room without teacher permission.",
-    "options": ["mustn't", "don't have to", "might not", "shouldn't have"],
-    "answer": "mustn't",
-    "tip": "'Mustn't' expressa uma regra ou proibição formal obrigatória."
+    "question": "SCHOOL BULLETIN:\n'Volunteers needed for the community garden project. No previous agricultural experience is necessary, provided that you are willing to learn.'\nAccording to the bulletin, volunteers:",
+    "options": [
+      "Must have worked in community gardens before.",
+      "Can participate as long as they want to learn.",
+      "Will be paid for their agricultural work.",
+      "Need to pass a gardening examination."
+    ],
+    "answer": "Can participate as long as they want to learn.",
+    "tip": "'Provided that' introduz condição necessária ('desde que/contanto que você esteja disposto a aprender')."
   },
   {
     "id": 26,
     "level": "B1",
-    "question": "Although the task was difficult, she managed _____ it before noon.",
-    "options": ["complete", "to complete", "completing", "completed"],
-    "answer": "to complete",
-    "tip": "O verbo 'manage' (conseguir realizar) rege infinitivo com 'to'."
+    "question": "TEXT CLOZE:\n'The invention of the printing press meant that books could be distributed at a much lower cost. As a _____, literacy rates began to climb significantly across Europe.'",
+    "options": ["result", "cause", "purpose", "reason"],
+    "answer": "result",
+    "tip": "A locução conectiva 'as a result' expressa relação de consequência direta em textos formais."
   },
   {
     "id": 27,
     "level": "B1",
-    "question": "This is the laboratory _____ the experiments were conducted.",
-    "options": ["which", "where", "that", "whose"],
-    "answer": "where",
-    "tip": "O pronome relativo 'where' refere-se ao lugar físico onde a ação ocorre."
+    "question": "SENTENCE TRANSFORMATION:\nOriginal: 'I advise you not to swim in the lake today.'\nNew sentence: 'If I were you, I _____ swim in the lake today.'",
+    "options": ["wouldn't", "won't", "mustn't", "shouldn't have"],
+    "answer": "wouldn't",
+    "tip": "A estrutura de conselho com Second Conditional é 'If I were you, I would / wouldn't...'."
   },
   {
     "id": 28,
     "level": "B1",
-    "question": "I am not used to _____ up so early during the vacation.",
-    "options": ["wake", "waking", "woke", "woken"],
-    "answer": "waking",
-    "tip": "A estrutura 'be used to' (estar acostumado a) exige o verbo seguinte com terminação '-ing'."
+    "question": "Despite _____ heavily throughout the morning, the organizers decided to proceed with the track meet.",
+    "options": ["raining", "it rained", "of the rain", "rain"],
+    "answer": "raining",
+    "tip": "A preposição concessiva 'despite' exige substantivo ou verbo com terminação '-ing'."
   },
   {
     "id": 29,
     "level": "B1",
-    "question": "Neither Daniel _____ his brother attended the conference.",
-    "options": ["or", "nor", "and", "but"],
+    "question": "Neither the headmaster _____ the teachers were aware of the technical failure in the auditorium.",
+    "options": ["nor", "or", "and", "but"],
     "answer": "nor",
-    "tip": "A conjunção correlativa correlaciona 'neither' com 'nor'."
+    "tip": "A conjunção correlativa correta em inglês formal é 'neither... nor'."
   },
   {
     "id": 30,
     "level": "B1",
-    "question": "Could you tell me how much this dictionary _____?",
-    "options": ["costs", "does it cost", "cost", "did cost"],
-    "answer": "costs",
-    "tip": "Em perguntas indiretas ('Could you tell me...'), a ordem da oração subordinada não é invertida."
+    "question": "Can you check if there is enough milk in the pantry? I am not keen _____ drinking black coffee.",
+    "options": ["on", "at", "about", "with"],
+    "answer": "on",
+    "tip": "A expressão idiomática com adjetivo 'keen' rege obrigatoriamente a preposição 'on' ('keen on something')."
   },
   {
     "id": 31,
     "level": "B2",
-    "question": "By the time the train arrived, we _____ on the platform for forty minutes.",
-    "options": ["waited", "have waited", "had been waiting", "were waiting"],
-    "answer": "had been waiting",
-    "tip": "Past Perfect Continuous enfatiza a duração contínua de um processo até outro fato no passado."
+    "question": "TEXT CLOZE (HISTORY OF TECHNOLOGY):\n'The discovery provided researchers with valuable _____ into how medieval architects designed self-supporting stone domes without modern computational tools.'",
+    "options": ["insights", "views", "spectacles", "outlooks"],
+    "answer": "insights",
+    "tip": "'Insight into' é uma colocação nominal fixa que indica compreensão aprofundada de um fenômeno."
   },
   {
     "id": 32,
     "level": "B2",
-    "question": "The lights are off and doors are locked. They _____ left the building.",
-    "options": ["must have", "should have", "can have", "need to have"],
-    "answer": "must have",
-    "tip": "'Must have + past participle' expressa dedução lógica de alta certeza retrospectiva."
+    "question": "SENTENCE TRANSFORMATION:\nOriginal: 'The museum had rarely exhibited such an intact dinosaur skeleton.'\nNew sentence: 'Rarely _____ such an intact dinosaur skeleton.'",
+    "options": [
+      "had the museum exhibited",
+      "the museum had exhibited",
+      "did the museum exhibited",
+      "exhibited the museum"
+    ],
+    "answer": "had the museum exhibited",
+    "tip": "Inversão enfática: advérbios negativos/restritivos ('Rarely') no início exigem inversão 'auxiliar + sujeito'."
   },
   {
     "id": 33,
     "level": "B2",
-    "question": "The historical seminar had to be _____ due to unexpected weather issues.",
-    "options": ["called off", "put off", "taken up", "turned down"],
-    "answer": "put off",
-    "tip": "O phrasal verb 'put off' significa adiar/postergar um evento agendado."
+    "question": "The experiment did not yield valid findings _____ because the laboratory instruments had not been properly calibrated.",
+    "options": ["largely", "highly", "deeply", "widely"],
+    "answer": "largely",
+    "tip": "O advérbio 'largely' combina naturalmente com 'because' para significar 'em grande parte devido a'."
   },
   {
     "id": 34,
     "level": "B2",
-    "question": "_____ the primary source documents, the researcher began drafting the thesis.",
-    "options": ["Having examined", "Examining of", "Had examined", "After examined"],
-    "answer": "Having examined",
-    "tip": "Uso de 'Perfect Participle Clause' ('Having + past participle') para indicar conclusão anterior da ação."
+    "question": "The archeological conference was postponed on the _____ that severe weather would prevent overseas delegates from arriving.",
+    "options": ["grounds", "reasons", "terms", "points"],
+    "answer": "grounds",
+    "tip": "Colocação formal em registros acadêmicos: 'on the grounds that / of' (sob o fundamento/motivo de)."
   },
   {
     "id": 35,
     "level": "B2",
-    "question": "Only after the results were checked _____ the mathematical discrepancy.",
-    "options": ["did they realize", "they realized", "had they realized", "realized they"],
-    "answer": "did they realize",
-    "tip": "Inversão enfática: expressões restritivas como 'Only after...' exigem ordem 'auxiliar + sujeito + verbo'."
+    "question": "SENTENCE TRANSFORMATION:\nOriginal: 'I regret not checking the train timetable earlier.'\nNew sentence: 'I wish I _____ the train timetable earlier.'",
+    "options": ["had checked", "checked", "have checked", "would check"],
+    "answer": "had checked",
+    "tip": "Expressões de arrependimento sobre eventos passados com 'wish' exigem o Past Perfect ('had checked')."
   },
   {
     "id": 36,
     "level": "B2",
-    "question": "The committee recommended that every participant _____ the safety protocol beforehand.",
-    "options": ["reviews", "review", "reviewed", "will review"],
-    "answer": "review",
-    "tip": "Subjuntivo em inglês (Present Subjunctive): exige a forma base do verbo após 'recommend that...'."
+    "question": "_____ the historical manuscripts thoroughly, the research committee published their conclusive findings.",
+    "options": [
+      "Having analyzed",
+      "Analyzing of",
+      "Being analyzed",
+      "On analyzed"
+    ],
+    "answer": "Having analyzed",
+    "tip": "'Perfect Participle Clause' ('Having + past participle') estabelece causa e conclusão anterior à oração principal."
   },
   {
     "id": 37,
     "level": "B2",
-    "question": "Seldom _____ such an accurate physical scale model of the planetary system.",
-    "options": ["we have seen", "have we seen", "we saw", "did we seen"],
-    "answer": "have we seen",
-    "tip": "Inversão com advérbios negativos ou restritivos na abertura de frase ('Seldom + auxiliar + sujeito')."
+    "question": "The university ethics board recommended that the laboratory _____ all testing protocols immediately.",
+    "options": ["suspend", "suspends", "suspended", "will suspend"],
+    "answer": "suspend",
+    "tip": "Present Subjunctive em inglês: verbos de recomendação formal exigem a forma base do verbo (sem -s na 3ª pessoa)."
   },
   {
     "id": 38,
     "level": "B2",
-    "question": "If you _____ earlier, we wouldn't have missed the opening presentation.",
-    "options": ["notified us", "had notified us", "would notify us", "have notified us"],
-    "answer": "had notified us",
-    "tip": "Third Conditional: a condição irreal no passado forma-se com 'If + Past Perfect'."
+    "question": "TEXT CLOZE:\n'Marine biologists were amazed to discover that the coral reef was slowly recovering, completely contrary to earlier scientific _____.'",
+    "options": ["expectations", "intentions", "proposals", "ambitions"],
+    "answer": "expectations",
+    "tip": "'Contrary to expectations' é uma expressão idiomática fixa para indicar desfecho oposto ao previsto."
   },
   {
     "id": 39,
     "level": "B2",
-    "question": "The scientific hypothesis was rejected on the _____ of insufficient evidence.",
-    "options": ["grounds", "reasons", "causes", "premises"],
-    "answer": "grounds",
-    "tip": "Colocação formal em inglês: 'on the grounds of' (sob a justificativa / com base em)."
+    "question": "SENTENCE TRANSFORMATION:\nOriginal: 'It is almost certain that the ancient scroll was written by royal scribes.'\nNew sentence: 'The ancient scroll _____ by royal scribes.'",
+    "options": [
+      "must have been written",
+      "should have been written",
+      "could have written",
+      "would have written"
+    ],
+    "answer": "must have been written",
+    "tip": "Dedução retrospectiva de alta certeza na voz passiva: 'must have been + past participle'."
   },
   {
     "id": 40,
     "level": "B2",
-    "question": "She couldn't help _____ the contrast between the two historical periods.",
-    "options": ["notice", "noticing", "to notice", "noticed"],
-    "answer": "noticing",
-    "tip": "A expressão idiomática 'can't help / couldn't help' exige gerúndio (-ing)."
+    "question": "The student council representative was _____ determined to ensure fair access to digital resources for all classes.",
+    "options": ["fiercely", "heavily", "densely", "harshly"],
+    "answer": "fiercely",
+    "tip": "Colocação enfática autêntica: o advérbio 'fiercely' combina com 'determined' para indicar convicção inabalável."
   }
 ]
